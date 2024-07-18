@@ -1,7 +1,7 @@
 # AI Chatbot with MERN Stack and OpenAI Integration
 
 ## Project Overview
-This project is a full-stack AI chatbot application built using the MERN (MongoDB, Express.js, React, Node.js) stack, inspired by the tutorial from [JavaScript Mastery](https://youtu.be/PX_YOfEdhRg?si=Irpl7ydBuiOiomad). It features a comprehensive user authentication system, OpenAI integration, and a responsive chat interface.
+This project is a full-stack AI chatbot application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It features a comprehensive user authentication system, OpenAI integration, and a responsive chat interface.
 
 ## Key Features
 - MERN Stack implementation (MongoDB, Express.js, React, Node.js)
